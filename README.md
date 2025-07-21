@@ -6,7 +6,7 @@
 
 <h2>🚀 Published Paper </h2>
 
-[IJCRT 2024 Paper]([https://ai-dxmh.vercel.app/](https://www.ijcrt.org/papers/IJCRT2401211.pdf))
+[IJCRT 2024 Paper]([https://www.ijcrt.org/papers/IJCRT2401211.pdf])
 
 <h2>Project Screenshots:</h2>
 
