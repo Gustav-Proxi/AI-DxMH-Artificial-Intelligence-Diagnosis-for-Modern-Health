@@ -4,9 +4,9 @@
 
 <p id="description">AI-DxMH is an AI-powered health assistant that provides accessible medical diagnoses for people in remote areas of India. It uses a large language model (LLM) natural language processing and machine learning to ask users questions about their symptoms and provide likely diagnoses and health advice. AI-DxMH is designed to increase access to basic healthcare for those without easy access to doctors especially in small towns and villages in India. It aims to help users determine if their illness is serious enough to require seeing a doctor or if home remedies and over-the-counter medication may be effective. The project utilizes an LLM and open source AI technologies to create an interactive conversational agent that can understand common health complaints in multiple Indian languages. It is intended to benefit medically underserved populations by providing basic health and wellness recommendations.</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Published Paper </h2>
 
-[https://ai-dxmh.vercel.app/](https://ai-dxmh.vercel.app/)
+[IJCRT 2024 Paper]([https://ai-dxmh.vercel.app/](https://www.ijcrt.org/papers/IJCRT2401211.pdf))
 
 <h2>Project Screenshots:</h2>
 
